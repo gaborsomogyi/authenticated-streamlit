@@ -13,7 +13,7 @@ docker compose up
 ```
 
 ## Login credentials
-user: test
+user: test  
 pass: 123
 
 
